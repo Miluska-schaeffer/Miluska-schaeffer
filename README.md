@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Miluska</h1>
-<h3 align="center">A full-stack web developer with a passion for design open to work in Front End | UX Design</h3>
-
-- 🔭 I’m currently working on **expanding my personal portfolio**
-
-- 🌱 I’m currently expanding my learning **on Rails, Javascript**
+<h3 align="center">A full-stack web developer with a passion for design open to work in UX Design</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
